@@ -1,1 +1,1 @@
-# games-snakesandladders
+# snakesandladders
